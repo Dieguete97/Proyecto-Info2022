@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image: url(../img/otrofondo.jpg) ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, Helvetica, sans-serif;
+
+}
+#container{
+    width: 90%;
+    margin: 0px auto;
+    
+}
+header h1{
+    background: #039ee6;
+    opacity: 0.9;
+    height: 70px;
+    width: 100%;
+    text-align: left;
+    line-height: 50px;
+    color: #ffffff;
+    font-size: 30px;
+}
+nav{
+    background: #d6d1b5;
+    height: 50px;
+    font-family: sans-serif;
+    font-size: 20;
+    color: #ffffff;
+}
+nav ul {
+    float: left;
+    list-style: none;
+    font-size: 20px;
+    line-height: 30px;
+}
+.clear{
+    clear: both;
+}
+
+h2{
+    opacity: 0.9;
+    background: #ffffff;
+    color: #000000;
+    line-height: 100px;
+    text-align: center;
+    opacity: 0.5;
+}
+.a{
+    color: #ffffff;
+}
+h3{
+    font-size: 40;
+    tex
+}
+h4{
+    color: #000000;
+    text-align: center;
+    background: #ffffff;
+    opacity: 0.9;
+}
+p{
+    font-size: 30;
+}
+h1{
+    color:#000000; 
+}
+
+span{
+    color: black;
+    font-size: 20;
+}
